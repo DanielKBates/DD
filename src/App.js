@@ -17,7 +17,7 @@ function App() {
                 That will blow your mind
               </p>
               <p className="mt-3 text-lg text-slate-400 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0 animate-fadeInXL">
-                While you wait, check out my Github and my LinkedIn
+                While you wait, check out my Github and LinkedIn
               </p>
 
               <div className="mt-5 sm:mt-8 flex flex-col md:flex-row items-stretch md:justify-center lg:justify-start animate-fadeInXL">
