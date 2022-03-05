@@ -1,3 +1,11 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+
+.multiGradient {
+    background: linear-gradient(45deg,  #e73c7e, #23a6d5, #23d5ab);
+    /* #ee7752, */
+    background-size: 400% 400%;
+    /* box-shadow: inset 0 0 100px 100px rgba(255, 255, 255, 0);
+    transition: box-shadow 0.2s; */
+  }
