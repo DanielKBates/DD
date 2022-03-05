@@ -6,11 +6,11 @@ function App() {
           <main className=" absolute md:left-20 md:top-16 py-10 px-4 sm:px-6 lg:px-8 ">
             <div className="sm:text-center lg:text-left md:pl-8">
               <h1 className=" w-full font-extrabold text-gray-900 md:text-6xl">
-                <span className="text-7xl block text-slate-100 xl:inline animate-fadeInShort">
+                <span className="text-7xl block text-slate-100 animate-fadeInShort">
                   Coming Soon
                 </span>{" "}
                 <span className="text-5xl block text-[#0283ff] animate-fadeInMed delay-100 ">
-                  a portfolio
+                  a portfolio/blog
                 </span>
               </h1>
               <p className="mt-3 text-lg text-slate-400 sm:mt-5 sm:text-lg sm:max-w-xl sm:mx-auto md:mt-5 md:text-xl lg:mx-0 animate-fadeInLong">
