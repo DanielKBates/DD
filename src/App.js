@@ -1,15 +1,15 @@
 function App() {
   return (
     <div className="w-full min-h-screen bg-slate-300 py-12">
-      <div className="relative flex flex-col md:flex-row bg-purple-1100 w-11/12 mx-auto rounded-lg">
-        <div className="w-full h-[16rem] md:w-2/5">
-          <main className=" absolute md:left-20 md:top-16 py-10 px-4 sm:px-6 lg:px-8 ">
+      <div className="relative flex flex-col md:flex-row bg-purple-1100 w-11/12 md:w-2/3 mx-auto rounded-lg">
+        <div className="w-full h-[16rem] ">
+          <main className=" absolute md:left-40 md:top-16 py-10 px-4 sm:px-6 lg:px-8 ">
             <div className="sm:text-center lg:text-left md:pl-8">
               <h1 className=" w-full font-extrabold text-gray-900 md:text-6xl">
-                <span className="text-7xl block text-slate-100 animate-fadeInShort">
+                <span className="text-7xl -ml-1 block text-slate-100 animate-fadeInShort">
                   Coming Soon
                 </span>{" "}
-                <span className="text-4xl block text-[#0283ff] animate-fadeInMed delay-100 ">
+                <span className="text-4xl block text-[#0283ff] animate-fadeInMed delay-100 md: pt-4">
                   a portfolio/blog
                 </span>
               </h1>
